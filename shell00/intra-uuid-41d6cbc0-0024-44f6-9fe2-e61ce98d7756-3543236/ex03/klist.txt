@@ -1,0 +1,5 @@
+Credentials cache: API:69604D5B-5D14-4514-84FF-0CC9DA43717E
+        Principal: aamorin-@42URDULIZ.COM
+
+  Issued                Expires             Flags    Principal
+Apr 12 18:31:20 2021  Apr 13 04:31:20 2021  FPIA   krbtgt/42URDULIZ.COM@42URDULIZ.COM
